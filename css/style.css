@@ -1,0 +1,49 @@
+#mainBody{
+  background-image: url("../imges/background1.png");
+  margin-left: 150px;
+  margin-right: 150px;
+}
+#mainBody form{
+  background-color: none;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+#mainBody h1{
+  color: #714646;
+  background-color: #d4bbbb;
+  padding: 20px;
+  margin-left: 90px;
+  margin-right: 90px;
+  text-align: center;
+  border-radius: 20px;
+  border-style: groove;
+}
+
+#tableOutput{
+   background-color: none;
+   margin-left: 110px;
+   margin-right: 110px;
+  .toggler { width: 500px; height: 200px; position: relative; }
+    #button { padding: .5em 1em; text-decoration: none; }
+    #effect { width: 240px; height: 170px; padding: 0.4em; position: relative; background: #fff; }
+    #effect h3 { margin: 0; padding: 0.4em; text-align: center; }
+}
+#tableOutput1{
+   background-color: none;
+   margin-left: 110px;
+   margin-right: 110px;
+  .toggler { width: 500px; height: 200px; position: relative; }
+    #button { padding: .5em 1em; text-decoration: none; }
+    #effect { width: 240px; height: 170px; padding: 0.4em; position: relative; background: #fff; }
+    #effect h3 { margin: 0; padding: 0.4em; text-align: center; }
+}
+#tt{
+     background-color: none;
+     margin-left: 110px;
+     margin-right: 110px;
+    .toggler { width: 500px; height: 200px; position: relative; }
+      #button { padding: .5em 1em; text-decoration: none; }
+      #effect { width: 240px; height: 170px; padding: 0.4em; position: relative; background: #fff; }
+      #effect h3 { margin: 0; padding: 0.4em; text-align: center; }
+  
+}
